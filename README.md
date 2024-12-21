@@ -20,7 +20,7 @@ Please follow the instruction given below to successfully run all the sections o
 
 > **Important:** Please follow run files below as the serial given, otherwise the project might not work.
 
-> 🔑 **Note:** Please download the API-keys from OnQ and save them .env file in the root of this project.
+> 🔑 **Note:** Please download the environment variables from OnQ and save them .env file in the root of this project. The project has two environment variables dependencies; One for OpenAI API key and another is MongoDB Database URI.
 
 
 ## Dataset Preparation for fine-tuning
