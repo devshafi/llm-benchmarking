@@ -39,7 +39,7 @@ The benchmarking of the fine-tuned LLM with the base model and GPT3.5 turbo is d
 ## Function calling 
 
 ### Dataset Preparation for function-calling
-As synthetic dataset is used for the purpose of function calling, the dataset is prepared in [dataset-preparation.ipynb](/dataset/dataset-preparation.ipynb).
+As synthetic dataset is used for the purpose of function calling, the dataset is prepared in [dataset-preparation.ipynb](/dataset//EHR_dataset/dataset-preparation.ipynb).
 
 ### Function calling Experiment
 Experiment of function calling is done in [/function-calling.ipynb](/function-calling.ipynb). Details of the experiment can be found while opening the file.
